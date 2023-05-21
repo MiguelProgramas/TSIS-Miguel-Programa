@@ -3,7 +3,9 @@
 # TSIS-Miguel-Programa
 Repositório demonstrativo para arquivar os projetos de minha autoria nos anos em que cursarei do Desenvolvimento de Sistemas no SENAI - Almirante Tamandaré.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hello+%F0%9F%91%8B%2C+my+name+is+Miguel+Pereira;I'm+16+years+old;I+am+from+S%C3%A3o+Paulo%2C+Brazil;Student+at+SENAI+Almirante+Tamandaré" alt="Typing SVG" style="aling-itens:center; max-width: 100%; width:100%;"/>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Miguel 👋 I'm a 🚀 soon-to-be developer 🚀 I ❤️ Coding ❤️">
+</p>
 
 <!-- BODY -->
 <div align-itens="center">
